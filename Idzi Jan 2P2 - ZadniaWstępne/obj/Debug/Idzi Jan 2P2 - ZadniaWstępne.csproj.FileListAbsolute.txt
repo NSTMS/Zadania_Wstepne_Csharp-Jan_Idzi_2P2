@@ -1,0 +1,21 @@
+C:\Users\Idzi Jan\Desktop\c#\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\obj\Debug\Idzi Jan 2P2 - ZadniaWstępne.csprojAssemblyReference.cache
+C:\Users\Idzi Jan\Desktop\c#\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\obj\Debug\Idzi Jan 2P2 - ZadniaWstępne.csproj.CoreCompileInputs.cache
+C:\Users\Idzi Jan\Desktop\c#\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\bin\Debug\Idzi Jan 2P2 - ZadniaWstępne.exe.config
+C:\Users\Idzi Jan\Desktop\c#\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\bin\Debug\Idzi Jan 2P2 - ZadniaWstępne.exe
+C:\Users\Idzi Jan\Desktop\c#\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\bin\Debug\Idzi Jan 2P2 - ZadniaWstępne.pdb
+C:\Users\Idzi Jan\Desktop\c#\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\obj\Debug\Idzi Jan 2P2 - ZadniaWstępne.exe
+C:\Users\Idzi Jan\Desktop\c#\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\obj\Debug\Idzi Jan 2P2 - ZadniaWstępne.pdb
+D:\POBRANE Z GOOGLE\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\bin\Debug\Idzi Jan 2P2 - ZadniaWstępne.exe.config
+D:\POBRANE Z GOOGLE\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\bin\Debug\Idzi Jan 2P2 - ZadniaWstępne.exe
+D:\POBRANE Z GOOGLE\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\bin\Debug\Idzi Jan 2P2 - ZadniaWstępne.pdb
+D:\POBRANE Z GOOGLE\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\obj\Debug\Idzi Jan 2P2 - ZadniaWstępne.csproj.AssemblyReference.cache
+D:\POBRANE Z GOOGLE\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\obj\Debug\Idzi Jan 2P2 - ZadniaWstępne.csproj.CoreCompileInputs.cache
+D:\POBRANE Z GOOGLE\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\obj\Debug\Idzi Jan 2P2 - ZadniaWstępne.exe
+D:\POBRANE Z GOOGLE\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\obj\Debug\Idzi Jan 2P2 - ZadniaWstępne.pdb
+D:\Zespół Szkół Łączności\C#\Algitp\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\bin\Debug\Idzi Jan 2P2 - ZadniaWstępne.exe.config
+D:\Zespół Szkół Łączności\C#\Algitp\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\bin\Debug\Idzi Jan 2P2 - ZadniaWstępne.exe
+D:\Zespół Szkół Łączności\C#\Algitp\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\bin\Debug\Idzi Jan 2P2 - ZadniaWstępne.pdb
+D:\Zespół Szkół Łączności\C#\Algitp\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\obj\Debug\Idzi Jan 2P2 - ZadniaWstępne.csproj.AssemblyReference.cache
+D:\Zespół Szkół Łączności\C#\Algitp\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\obj\Debug\Idzi Jan 2P2 - ZadniaWstępne.csproj.CoreCompileInputs.cache
+D:\Zespół Szkół Łączności\C#\Algitp\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\obj\Debug\Idzi Jan 2P2 - ZadniaWstępne.exe
+D:\Zespół Szkół Łączności\C#\Algitp\Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne\obj\Debug\Idzi Jan 2P2 - ZadniaWstępne.pdb

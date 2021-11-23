@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Idzi Jan 2P2 - ZadniaWstępne", "Idzi Jan 2P2 - ZadniaWstępne\Idzi Jan 2P2 - ZadniaWstępne.csproj", "{C65DD6BC-B8E2-485E-97B1-2339AE7094FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C65DD6BC-B8E2-485E-97B1-2339AE7094FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65DD6BC-B8E2-485E-97B1-2339AE7094FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65DD6BC-B8E2-485E-97B1-2339AE7094FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65DD6BC-B8E2-485E-97B1-2339AE7094FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CEBA144-2149-402D-A657-922DE63C5A3F}
+	EndGlobalSection
+EndGlobal
